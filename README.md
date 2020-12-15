@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![github profile](https://github-readme-stats.vercel.app/api?username=rkobayashi&show_icons=true)
+
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rkobayashi)
+
+powered by https://github.com/anuraghazra/github-readme-stats
+
+---
+
+![project euler profile](https://projecteuler.net/profile/rkobayashi.png)
+
 <!--
 **rkobayashi/rkobayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
