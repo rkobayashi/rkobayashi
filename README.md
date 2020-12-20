@@ -8,7 +8,9 @@ powered by https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-![project euler profile](https://projecteuler.net/profile/rkobayashi.png)
+![rkobayashi's Project Euler Profile](https://project-euler-profile.vercel.app/api?username=rkobayashi)
+
+powered by https://github.com/rkobayashi/project-euler-profile
 
 <!--
 **rkobayashi/rkobayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
